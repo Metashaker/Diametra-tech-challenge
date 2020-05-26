@@ -7,13 +7,13 @@ Primero que nada me emociona la idea de trabajar con cualquiera de ustedes. Todo
 Ahora sí, a lo bueno.
 
 # Introducción
-A grandes rasgos, el reto es hacer un dashboard que consuma alguna api. A continuación los requerimientos técnicos y que se evaluará.
+A grandes rasgos, el reto es hacer un dashboard que consuma alguna api. A continuación los requerimientos técnicos y que se evaluará. No hay ningun boilerplate para que lo hagan a su manera.
 
 Recuerden que el puesto es frontend, así que el diseño si importa.
 
 # Requerimientos técnicos
 
--Framework: React (Puntos extra si usas GatsbyJs o NextJs) o HTML, CSS y JavaScript Vainilla
+-Framework: React (Puntos extras si usas GatsbyJs o NextJs) o HTML, CSS y JavaScript Vainilla
 - APIs recomendadas: Puede ser desde apis de este estilo: https://rickandmortyapi.com/ , de redes sociales: https://github.com/dilame/instagram-private-api , o de algo que permita graficar series de tiempo (chart.js o G2 de Ant Design). Puntos extras si la API es GraphQL.
 - Librería de diseño o componentes: Bootstrap, ant design o bulma están bien, pero la que quieran realmente. Puntos extras si utilizan styled-components y animaciones.
 - Tiempo: como saben, una parte importante de ser un buen dev es poder entregar a tiempo, por lo que tienen una semana para hacer el proyecto.
