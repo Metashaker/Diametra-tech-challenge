@@ -7,6 +7,14 @@
   "author": "markoz <markdrew53@gmail.com>",
   "license": "MIT",
   "private": false,
+  "husky": {
+    "hooks": {
+      "pre-commit": "lint-staged --allow-empty"
+    }
+  },
+  "lint-staged": {
+    "*.{js,ts,tsx}": "eslint --fix"
+  },
   "dependencies": {
     "next": "^9.4.2",
     "react": "^16.13.1",
