@@ -19,7 +19,8 @@
     "antd": "^4.2.5",
     "next": "^9.4.2",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "title-case": "^3.0.2"
   },
   "devDependencies": {
     "@types/node": "^14.0.5",
